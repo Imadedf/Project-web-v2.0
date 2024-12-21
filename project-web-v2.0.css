@@ -1,0 +1,12 @@
+*  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: gray;
+}
+img {
+    width: 15%;
+    height: auto;
+    border-radius: 50%;
+}
+img:hover {
+    opacity: 0.1;
+}
