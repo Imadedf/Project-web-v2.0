@@ -1,6 +1,6 @@
 *  {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #808080;
+    background-color: lightgray ;
 }
 img {
     width: 15%;
@@ -11,8 +11,24 @@ img:hover {
     opacity: 0.1;
 }
 img:active {
-    border: 10px solid #000000;
+    border: 5px solid gray;
     border-radius: 10px;
     opacity: 1;
 }
-
+div{
+    text-align: Left;
+    margin: auto;
+    color: black;
+    font-weight: 900;
+    font-size: 11pt;
+}
+table{
+    font-weight: 900;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: smaller;
+    color: black;
+}
+h1 , h2{
+    color: black;
+}
